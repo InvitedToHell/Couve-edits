@@ -7,8 +7,7 @@
  * @version 2.3.0.ctp-1.0.0
 */
 
-@import url("https://raw.githubusercontent.com/InvitedToHell/recursive-catppuccin/main/theme.css"); /* Using a url */
-
+@import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha-mauve.theme.css");
 
 /* Settings */
 :root {
